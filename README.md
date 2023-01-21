@@ -1,6 +1,6 @@
 ## This is a website for my fellow cst friends
 
-    A single page site Made with JS, CSS and advance HTML tags
+    A single page satic site Made with JS, CSS and advance HTML tags
 
 check out
 > "CST TREE", [Link](https://nayemhasan.github.io/Static_Website/)
