@@ -6,9 +6,7 @@
 > check out, [CST TREE](https://nayemhasan.github.io/Static_Website/)
 or take a quick look here:
 <table>
-  <tr> 
-    <td><img src="https://github.com/Nayemhasan/Static_Website/blob/main/img/pics/home.png"></td>
-    <td><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/img/pics/resources.png"></td>
-    <td><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/img/pics/support.png"></td>
-  </tr>
+    <tr><img src="https://github.com/Nayemhasan/Static_Website/blob/main/img/pics/home.png"></tr>
+    <tr><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/img/pics/resources.png"></tr>
+    <tr><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/img/pics/support.png"></tr>
 </table>
