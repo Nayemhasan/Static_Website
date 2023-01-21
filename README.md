@@ -7,8 +7,8 @@ check out
 or take a quick look here:
 <table>
   <tr> 
-    <td><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/pics/home.png"></td>
-    <td><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/pics/resources.png"></td>
-    <td><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/pics/support.png"></td>
+    <td><img src="https://github.com/Nayemhasan/Static_Website/blob/main/img/pics/home.png"></td>
+    <td><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/img/pics/resources.png"></td>
+    <td><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/img/pics/support.png"></td>
   </tr>
 </table>
