@@ -1,4 +1,4 @@
-## CST tree website for my fellow cst friends
+## This is a website for my fellow cst friends
 
     A single page site Made with JS, CSS and advance HTML tags
 
