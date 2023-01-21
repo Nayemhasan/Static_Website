@@ -1,4 +1,4 @@
-## This is a website for my fellow cst friends
+## This is a website for my fellow CST friends
 
     A single page satic site Made with JS, CSS and advance HTML tags
 
