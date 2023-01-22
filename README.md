@@ -4,7 +4,7 @@
 
 
 > check out, [CST TREE](https://nayemhasan.github.io/Static_Website/)
-or take a quick look here:
+or take a quick look here👇
 <table>
     <tr><img src="https://github.com/Nayemhasan/Static_Website/blob/main/img/pics/home.png"></tr>
     <tr><img src="https://github.com/Nayemhasan/csttree.guthub.io/blob/main/img/pics/resources.png"></tr>
