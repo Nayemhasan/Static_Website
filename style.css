@@ -146,15 +146,6 @@ img {
 .grid li:nth-child(5):hover ~ li:last-child:after {
     background: #A5D6A7;
 }
-/*.grid li:nth-child(6):hover ~ li:last-child:after {
-    background: #6c4331;
-}
-.grid li:nth-child(7):hover ~ li:last-child:after {
-    background: #555;
-}
-.grid li:last-child:hover:after {
-    background: #a88504;
-}*/
 
 .grid {
     grid-template-columns: repeat(3, 1fr);
@@ -184,14 +175,6 @@ img {
 .grid li:nth-child(5):hover ~ li:last-child:after,
 .grid li:nth-child(5):hover ~ li:last-child:before {
     transform: translate3d(-100%, -100%, 0);
-}
-.grid li:nth-child(6):hover ~ li:last-child:after,
-.grid li:nth-child(6):hover ~ li:last-child:before {
-    transform: translate3d(0%, -100%, 0);
-}
-.grid li:nth-child(7):hover ~ li:last-child:after,
-.grid li:nth-child(7):hover ~ li:last-child:before {
-    transform: translate3d(-200%, 0%, 0);
 }
 .grid li:last-child:hover:after,
 .grid li:last-child:hover:before {
@@ -227,14 +210,6 @@ img {
     .grid li:nth-child(5):hover ~ li:last-child:after,
     .grid li:nth-child(5):hover ~ li:last-child:before {
         transform: translate3d(-100%, -100%, 0);
-    }
-    .grid li:nth-child(6):hover ~ li:last-child:after,
-    .grid li:nth-child(6):hover ~ li:last-child:before {
-        transform: translate3d(0%, -100%, 0);
-    }
-    .grid li:nth-child(7):hover ~ li:last-child:after,
-    .grid li:nth-child(7):hover ~ li:last-child:before {
-        transform: translate3d(-100%, 0%, 0);
     }
     .grid li:last-child:hover:after,
     .grid li:last-child:hover:before {
