@@ -3,7 +3,7 @@
     A single page satic site Made with JS, CSS and advance HTML tags
 
 
-> check out, [CST TREE](https://nayemhasan.github.io/Static_Website/)
+> check out, [CST TREE](https://csttree.netlify.app/)
 or take a quick look here👇
 <table>
     <tr><img src="https://github.com/Nayemhasan/Static_Website/blob/main/img/pics/home.png"></tr>
